@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/UTUBE/static/css/main.6453c50b.css",
+    "main.js": "/UTUBE/static/js/main.250962cd.js",
+    "index.html": "/UTUBE/index.html",
+    "main.6453c50b.css.map": "/UTUBE/static/css/main.6453c50b.css.map",
+    "main.250962cd.js.map": "/UTUBE/static/js/main.250962cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6453c50b.css",
+    "static/js/main.250962cd.js"
+  ]
+}
